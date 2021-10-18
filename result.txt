@@ -1,0 +1,28 @@
+{
+    "data": {
+        "client_id": "pan_xLzXgIUesvNoKisXjpaz",
+        "pan_number": "BGSSSDFSF",
+        "full_name": null,
+        "category": null
+    },
+    "status_code": 422,
+    "success": false,
+    "message": "Invalid PAN",
+    "message_code": null
+}
+
+
+{
+    "data": {
+        "age_range": "20-30",
+        "state": "UTTAR PRADESH",
+        "is_mobile": true,
+        "gender": "M",
+        "aadhaar_number": "543298761234",
+        "last_digits": "700",
+        "client_id": "takdTqhCxo"
+    },
+    "status_code": 200,
+    "message": "",
+    "success": true
+}
